@@ -3,6 +3,7 @@ mywhite主题基于原版white主题改编。用vimdiff 查看更改：
 vimdiff css/theme/source/white.scss css/theme/source/mywhite.scss 
 ```
 
+---
 
 <p align="center">
   <a href="https://revealjs.com">
