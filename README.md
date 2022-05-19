@@ -1,3 +1,9 @@
+mywhite主题基于原版white主题改编。用vimdiff 查看更改：
+```bash
+vimdiff css/theme/source/white.scss css/theme/source/mywhite.scss 
+```
+
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
