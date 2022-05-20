@@ -1,4 +1,4 @@
-mywhite主题基于原版white主题改编。用vimdiff 查看更改：
+mywhite主题基于原版white主题改编,开箱即用。用vimdiff 查看更改：
 ```bash
 vimdiff css/theme/source/white.scss css/theme/source/mywhite.scss 
 ```
